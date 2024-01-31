@@ -2,9 +2,9 @@
 
 This is a demo repo to reproduce the different behaviors of `rspack_plugin_html` and `html-webpack-plugin`'s `inject` option.
 
-| rspack_plugin_html                              | html-webpack-plugin                               |
-|-------------------------------------------------|---------------------------------------------------|
-| ![rspack_plugin_html](./screenshots/rspack.png) | ![html-webpack-plugin](./screenshots/webpack.png) |
+| html-webpack-plugin                               | rspack_plugin_html                              |
+|---------------------------------------------------|-------------------------------------------------|
+| ![html-webpack-plugin](./screenshots/webpack.png) | ![rspack_plugin_html](./screenshots/rspack.png) |
 
 ```bash
 pnpm install
